@@ -23,7 +23,7 @@ A modern, responsive weather application built with React, TypeScript, and Vite.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-now.git
+   git clone https://github.com/AyushHL/weather-now.git
    cd weather-now
    ```
 
