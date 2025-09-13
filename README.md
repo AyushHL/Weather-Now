@@ -125,4 +125,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Support
 
-If you have any questions or need help, please [open an issue](https://github.com/yourusername/weather-now/issues) on GitHub.
+If you have any questions or need help, please [open an issue](https://github.com/AyushHL/weather-now/issues) on GitHub.
