@@ -1,21 +1,23 @@
 # Weather Now 🌤️
 
-A modern, responsive weather application built with React, TypeScript, and Vite. Get real-time weather information for any city around the world with a clean and intuitive interface.
+A Modern, Responsive Weather Application Built with React, TypeScript and Vite. Get Real-time Weather Information for any City Around the World with a Clean and Intuitive Interface.
 
 ## ✨ Features
 
-- **🔍 City Search**: Search for weather information by city name
-- **🌡️ Current Weather**: Display current temperature, wind speed, and weather conditions
-- **🗺️ Location Info**: Shows city name and country
-- **📱 Responsive Design**: Works seamlessly on desktop and mobile devices
-- **⚡ Fast Loading**: Built with Vite for optimal performance
-- **🎨 Clean UI**: Modern and user-friendly interface
+- **🔍 City Search**: Search for Weather Information by City Name
+- **🌡️ Current Weather**: Display Current Temperature, Wind Speed and Weather Conditions
+- **🗺️ Location Info**: Shows City Name and Country
+- **📱 Responsive Design**: Works Seamlessly on Desktop and Mobile Devices
+- **⚡ Fast Loading**: Built with Vite for Optimal Performance
+- **🎨 Glassmorphism UI**: Beautiful Dynamic Gradients and Modern Translucent Cards
+- **✨ Dynamic Icons**: Features Engaging Loading Animations and Lucide Icons
 
 ## 🚀 Tech Stack
 
 - **Frontend**: React 19 with TypeScript
 - **Build Tool**: Vite
-- **Styling**: CSS with Tailwind-like utility classes
+- **Styling**: Tailwind CSS v3
+- **Icons**: Lucide React
 - **Weather API**: Open-Meteo (free, no API key required)
 - **Geocoding**: Open-Meteo Geocoding API
 
@@ -41,18 +43,18 @@ A modern, responsive weather application built with React, TypeScript, and Vite.
 
 ## 🛠️ Available Scripts
 
-- `npm run dev` - Start the development server
-- `npm run build` - Build the application for production
-- `npm run preview` - Preview the production build locally
-- `npm run lint` - Run ESLint for code linting
+- `npm run dev` - Start the Development Server
+- `npm run build` - Build the Application for Production
+- `npm run preview` - Preview the Production Build Locally
+- `npm run lint` - Run ESLint for Code Linting
 
 ## 🌐 API
 
-This application uses the free [Open-Meteo API](https://open-meteo.com/) which provides:
+This Application uses the Free [Open-Meteo API](https://open-meteo.com/) which Provides:
 
-- **Weather Data**: Current weather conditions including temperature, wind speed, and weather codes
-- **Geocoding**: Convert city names to coordinates for weather lookup
-- **No API Key Required**: Completely free to use without registration
+- **Weather Data**: Current Weather Conditions including Temperature, Wind Speed and Weather Codes
+- **Geocoding**: Convert City Names to Coordinates for Weather Lookup
+- **No API Key Required**: Completely Free to Use without Registration
 
 ## 📁 Project Structure
 
@@ -77,14 +79,14 @@ weather-now/
 
 ## 🎯 Usage
 
-1. Enter a city name in the search bar
-2. Click "Search" or press Enter
-3. View the current weather information including:
-   - Current temperature in Celsius
-   - Wind speed in km/h
-   - Weather conditions
-   - Location name and country
-   - Last updated time
+1. Enter a City Name in the Search Bar
+2. Click "Search" or Press Enter
+3. View the Current Weather Information Including:
+   - Current Temperature in Celsius
+   - Wind Speed in km/h
+   - Weather Conditions
+   - Location Name and Country
+   - Last Updated Time
 
 ## 🔧 Development
 
@@ -95,34 +97,34 @@ weather-now/
 
 ### Setup for Development
 
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Submit a pull request
+1. Fork the Repository
+2. Create a New Branch: `git checkout -b feature/your-feature-name`
+3. Make your Changes and Commit them: `git commit -m 'Add some feature'`
+4. Push to the Branch: `git push origin feature/your-feature-name`
+5. Submit a Pull Request
 
 ### Code Style
 
-This project uses ESLint for code linting. Run `npm run lint` to check for any style issues.
+This Project uses ESLint for Code Linting. Run `npm run lint` to Check for any Style Issues.
 
 ## 🚀 Deployment
 
-To build the application for production:
+To Build the Application for Production:
 
 ```bash
 npm run build
 ```
 
-The built files will be in the `dist` directory, ready for deployment to any static hosting service like Netlify, Vercel, or GitHub Pages.
+The Built Files will be in the `dist` Directory, Ready for Deployment to any Static Hosting Service like Netlify, Vercel or GitHub Pages.
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This Project is Open Source and Available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are Welcome! Please Feel Free to Submit a Pull Request.
 
 ## 📞 Support
 
-If you have any questions or need help, please [open an issue](https://github.com/AyushHL/weather-now/issues) on GitHub.
+If you have any Questions or Need Help, Please [open an issue](https://github.com/AyushHL/weather-now/issues) on GitHub.
